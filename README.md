@@ -1,10 +1,15 @@
-# Python Calculator API
+# 🚀 Python Calculator API
 
-Uma API de calculadora em Python usando Flask, com diferentes métodos de cálculo.
+Uma API de calculadora em Python construída com **Flask**, seguindo princípios de arquitetura limpa. Projeto focado em boas práticas de desenvolvimento back-end.
 
-## 📦 Funcionalidades
+## 🛠 Tecnologias Utilizadas
+- **📊 NumPy** (Cálculos estatísticos)
+- **🧪 Pytest** (Testes unitários)
+- **🛠️ Factory Pattern** (Injeção de dependências)
 
-- `Calculator1`: Cálculo de soma
-- `Calculator2`: Cálculo estatístico (média, desvio padrão)
-- `Calculator3`: Cálculo de variância e multiplicação
+## 📌 Funcionalidades
+✔️ Dois métodos de cálculo distintos  
+✔️ Validação de dados de entrada  
+✔️ Respostas padronizadas em JSON  
+✔️ Tratamento de erros detalhado  
 
